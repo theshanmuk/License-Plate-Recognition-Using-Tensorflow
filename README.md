@@ -7,7 +7,7 @@ The project developed using TensorFlow to detect the **License-Plate** with some
 - NumPy
 
 # Training Custom Object Detector
-- Stting up the [Object_Detection](https://github.com/tensorflow/models/tree/master/research/object_detection) directory structure in an Environment
+- Setting up the [Object_Detection](https://github.com/tensorflow/models/tree/master/research/object_detection) directory structure in an Environment
 - Gathering Data
 - **label** pictures using [labelImg](https://github.com/tzutalin/labelImg)
 - Creating a **labelmap** 
